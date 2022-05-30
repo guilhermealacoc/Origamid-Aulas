@@ -1,8 +1,11 @@
-a {
-  color: red;
-  text-decoration: none;
+#introduaco {
+  color: gold;
 }
 
-p a {
+.codigo {
   color: blue;
+}
+
+.design {
+  color: red;
 }
