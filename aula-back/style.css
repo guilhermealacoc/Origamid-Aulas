@@ -1,0 +1,17 @@
+div {
+  background: red;
+  width: 140px;
+  height: 80px;
+  padding: 30xp;
+  border: 10px solid #111;
+  /*margin: 30px;*/
+}
+
+body {
+  margin: 0px;
+}
+
+h1 {
+  background: purple;
+  padding: 20px;
+}
